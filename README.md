@@ -30,19 +30,7 @@ Node.js (v16 or above)
 
 npm or yarn
 
-Installation
-bash
-Copy
-Edit
-git clone https://github.com/kameshp1815/udayam.git
-cd udayam
-npm install
-Running Locally
-bash
-Copy
-Edit
-npm run dev
-The app will be available at http://localhost:5173
+
 
 Environment Variables
 Create a .env file in the root directory and add your OpenWeatherMap API key:
